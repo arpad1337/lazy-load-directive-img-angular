@@ -16,7 +16,6 @@ Lazy-load directive for images in Angular
     "
   ></span>
   
-
 ```
 
 # Author
