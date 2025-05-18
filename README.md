@@ -4,7 +4,6 @@ Lazy-load directive for images in Angular
 # Usage
 
 ```html
-
   <img [src]="src" [alt]="imageAlt" />
 
   ...
@@ -15,7 +14,6 @@ Lazy-load directive for images in Angular
       content
     "
   ></span>
-  
 ```
 
 # Author
